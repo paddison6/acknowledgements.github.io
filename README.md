@@ -27,6 +27,8 @@ Liuzzo, L., Simon, S., & Regoli, L.   (2019b, February).   Energetic ion dynamic
 
 Liuzzo, L., Poppe, A. R., Paranicas, C., Nenon, Q., Fatemi, S., & Simon, S. (2020). Variability in the energetic electron bombardment of Ganymede. Journal of Geophysical Research:  Space Physics, n/a (n/a), e2020JA028347. Retrieved from https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/5192020JA028347 (e2020JA028347 2020JA028347)  doi:  10.1029/2020JA028347520
 
+Muller, J. (2011). A.I.K.E.F.: An Adaptive Hybrid Model with Application to Fossil Fields at Titan and Mercury’s Double Magnetopause (Doctoral dissertation). Retrieved from https://publikationsserver.tu.braunschweig.de/receive/dbbs_mods_0042546
+
 Paranicas, C., McEntire, R. W., Cheng, A. F., Lagg, A., & Williams, D. J. (2000). Energetic charged particles near Europa. Journal of Geophysical Research:  Space Physics,105(A7), 16005-16015. Retrieved from https://585agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JA000350 doi:58610.1029/1999JA000350
 
 Pospieszalska, M., & Johnson, R. (1989). Magnetospheric ion bombardment profiles of satellites:  Europa and Dione. Icarus, 78(1), 1 - 13. Retrieved from http://www.sciencedirect.com/science/article/pii/001910358990065 doi:  https://doi.org/10.1016/0019-1035(89)90065-1
