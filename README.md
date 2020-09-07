@@ -31,6 +31,8 @@ Muller, J. (2011). A.I.K.E.F.: An Adaptive Hybrid Model with Application to Foss
 
 Paranicas, C., McEntire, R. W., Cheng, A. F., Lagg, A., & Williams, D. J. (2000). Energetic charged particles near Europa. Journal of Geophysical Research:  Space Physics,105(A7), 16005-16015. Retrieved from https://585agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JA000350 doi:58610.1029/1999JA000350
 
+Paranicas, C., Cooper, J. F., Garrett, H. B., Johnson, R. E., & Sturner, S. J.  (2009). Europa’s Radiation Environment and Its Effects on the Surface.   In R. T. Pappalardo, W. B. McKinnon, & K. K. Khurana (Eds.), Europa (p. 529).
+
 Pospieszalska, M., & Johnson, R. (1989). Magnetospheric ion bombardment profiles of satellites:  Europa and Dione. Icarus, 78(1), 1 - 13. Retrieved from http://www.sciencedirect.com/science/article/pii/001910358990065 doi:  https://doi.org/10.1016/0019-1035(89)90065-1
 
 
